@@ -1,0 +1,22 @@
+body ,html{
+    background-color: beige;
+    margin: 0;
+}
+.container{
+  display: flex;
+  justify-content: center;
+  row-gap: 3px;
+
+}
+/* .div{
+    margin-left: 20px;
+    margin-top: 10px;
+    background-color: honeydew;
+    text-align: center;
+}
+.div2{
+    margin-left: 20px;
+    margin-top: 10px;
+    background-color: honeydew;
+    text-align: center;   
+} */
